@@ -1,0 +1,22 @@
+$user-panel-body-height: 62px;
+$user-item-panel-footer-height: 52px;
+
+$user-rep-button-height: ($user-panel-body-height / 2);
+$user-rep-button-icon-el-border-radius : 4px;
+
+$mq-user-rep-button-as-split-lg : 1089px;
+$mq-user-rep-button-noas-split-lg : 695px;
+$mq-user-rep-btn-limit-lg:  953px;
+
+$user-rep-btn-limit-lg: max-width $mq-user-rep-btn-limit-lg;
+$user-rep-button-as-split-lg : max-width $mq-user-rep-button-as-split-lg;
+$user-rep-button-noas-split-lg : max-width $mq-user-rep-button-noas-split-lg;
+
+$bg-cashback:#BA96CB;
+$bg-cashback-dark:#9569A9;
+
+$bg-gift:#6FD6D2;
+$bg-gift-dark:#3DB6B1;
+
+$bg-users:#4596D7;
+$bg-users-dark:#2E70A4;

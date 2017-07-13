@@ -1,0 +1,35 @@
+@import "../../../be/app";
+
+.item-header{
+  color:$main-color;
+  $sub-fon-size:12px;
+
+  .structure-name{ font-size:16px;font-weight: bold;}
+  .value{font-weight:bold}
+
+  .open-date{
+    font-size:$sub-fon-size;
+    color:$main-color;
+  }
+  .number{
+    font-size:$sub-fon-size;
+    color:$main-color;
+  }
+}
+.item-detail-switch{
+  .text{ color:$main-color ; font-style: italic;font-size:12px;}
+}
+.item-recap{
+  .description{font-size:12px}
+  .value{font-size:12px;font-weight:bold}
+}
+.item-find-and-cash{
+  .display-value{
+    .label {color:$main-color !important;}
+    .value {color:$main-color;font-weight:bold !important;}
+    .color {color:$main-color;}
+  }
+}
+.item-detail{
+    font-size:12px;
+}

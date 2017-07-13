@@ -1,0 +1,10 @@
+- UserList (page)
+    - UserSearchFilterBar  
+        - UserSearchFilter
+            - SearchTextBox
+        - UserSearchFilter
+            - OrderByList
+    - Pagination
+    - Panel (Item)
+        - UserItem (Body)    
+        - UserRepButton (Footer)

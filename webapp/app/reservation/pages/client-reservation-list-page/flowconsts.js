@@ -1,0 +1,10 @@
+export const RMNG_STATUS_VIEWING='viewing';
+export const RMNG_STATUS_EDITING='editing';
+export const RMNG_STATUS_CHECKING='checking';
+export const RMNG_STATUS_CHECKED_AVAILABLE='checked_available';
+export const RMNG_STATUS_CHECKED_NOT_AVAILABLE='checked_not_available';
+export const RMNG_STATUS_CHECKED_ERROR='checked_error';
+export const RMNG_STATUS_MODIFING='modifing';
+export const RMNG_STATUS_MODIFY_SUCCESS='modify_success';
+export const RMNG_STATUS_MODIFY_ERROR='modify_error';
+export const RMNG_STATUS_DELETING='deleting';
