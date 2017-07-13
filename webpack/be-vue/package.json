@@ -1,7 +1,7 @@
 {
-  "name": "abs-frequent-guest-vue",
+  "name": "be-vue",
   "version": "0.1.3",
-  "description": "Applicazione vue per la gestione del profilo utente del fidelity program e del cashback per utenti abituali dei portali",
+  "description": "Applicazione vue",
   "main": "client/index.js",
   "scripts": {
     "test": "jest",
@@ -10,7 +10,7 @@
     "lint": "eslint client/* --ext .js --ext .vue",
     "purify": "purifycss  dist/styles.css  dist/vendor.js dist/client.js dist/0.js dist/1.js dist/2.js dist/3.js dist/4.js dist/5.js dist/6.js dist/7.js dist/8.js dist/9.js dist/10.js dist/11.js dist/12.js --min --info --out dist/styles.css"
   },
-  "author": "Garde <alberto.gardenal@mm-one.com>",
+  "author": "mauro larese",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
