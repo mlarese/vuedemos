@@ -27,4 +27,3 @@ vue examples
 
 ### Complex Component
 [BeGuestPage](webapp/app/guest-be/pages/BeGuestPage.vue)
-
