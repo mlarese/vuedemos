@@ -10,17 +10,16 @@ let Logger=Vue.$ioc.resolve('Logger');
  * @type {string}
  */
 let pathName =  window.location.pathname;
-pathName = pathName.replace("AbsFrequentGuest","absfrequentguest").replace("/client","");
+pathName = "/client";
 
 
 let baseURL= pathName;
 
 if(process.env.NODE_ENV === 'development')
-    baseURL = 'http://servicehub.abs-one.dev/absfrequentguest/res/01/0';
+    baseURL = '/';
 
 if( window.location.hostname==="localhost" ){
-    baseURL = 'http://servicehub.abs-one.dev/absfrequentguest/res/01/0';
-    //baseURL = 'http://localhost/ajax-proxy.php?url=http://servicehub.abs-one.stg/absfrequentguest/res/01/0';
+    baseURL = '/';
 }
 
 Logger.info("connetting to",baseURL);
