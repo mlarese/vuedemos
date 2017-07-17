@@ -27,5 +27,3 @@ vue examples
 
 ### Complex Component
 [BeGuestPage](webapp/app/guest-be/pages/BeGuestPage.vue)
-
-![user](webapp/assets/img/preloader/user.png)
