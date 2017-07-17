@@ -33,3 +33,6 @@ a store module for each model
 [BeGuestPage](webapp/app/guest-be/pages/BeGuestPage.vue)
 
 [Async Components](webapp/app/guest/routes.js)
+
+### Complex store
+[guest store](webapp/app/guest/store.js)
