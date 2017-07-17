@@ -14,7 +14,8 @@ vue examples
 
 [Client](webapp/app/fe)
 
-5 Models (a store module for each model)
+### 5 Models
+a store module for each model
 
 [cashback](webapp/app/cashback)
 
