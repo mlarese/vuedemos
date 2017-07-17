@@ -1,18 +1,19 @@
 # Vue demos
 vue examples
 
-2 Projects with
+### 2 Projects
+
+[Admin](webapp/app/be) ([scss](common-assets/assets/scss))
+
+[Client](webapp/app/fe)
+
+### Packages
 - vuex
 - vue-router
 - VueIoc (dependency injection)
 - vuexI18n (localized messages)
 - Axios and Axios mock adapter
-- [Async Components](webapp/app/guest/routes.js)
 
-[Admin](webapp/app/be)
-([style language scss](common-assets/assets/scss))
-
-[Client](webapp/app/fe)
 
 ### 5 Models
 a store module for each model
@@ -30,3 +31,5 @@ a store module for each model
 
 ### Complex Component
 [BeGuestPage](webapp/app/guest-be/pages/BeGuestPage.vue)
+
+[Async Components](webapp/app/guest/routes.js)
