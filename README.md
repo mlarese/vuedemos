@@ -6,7 +6,8 @@ vue examples
 - vue-router
 - VueIoc (dependency injection)
 - vuexI18n (localized messages)
-- [Async Components](webapp/app/cashback/routes.js)
+- Axios and Axios mock adapter
+- [Async Components](webapp/app/guest/routes.js)
 
 [Admin](webapp/app/be)
 ([style language scss](common-assets/assets/scss))
